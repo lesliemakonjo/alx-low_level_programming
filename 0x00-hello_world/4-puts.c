@@ -1,22 +1,12 @@
-#!/bin/bash
 #include <stdio.h>
-
 /**
+* Simple program that uses print function
  *
- *  * Simple program that uses print function
- *
- *   *
- *
- *    * Return: a string
- *
- *     */
-
+* Return: a string
+*/
 int main(void)
-
 {
-
-	    puts("\"Programming is like building a multilingual puzzle");
-
-	        return (0);
-
+    puts("\"Programming is like building a multilingual puzzle");
+    return (0);
 }
+
