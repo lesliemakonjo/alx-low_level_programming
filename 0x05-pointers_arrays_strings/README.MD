@@ -1,8 +1,0 @@
-
-:WQ
-:wq
-cllear
-
-
-
-clear
